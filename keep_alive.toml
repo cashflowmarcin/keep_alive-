@@ -1,0 +1,3 @@
+main.plugins.keep_alive.enabled = true
+main.plugins.keep_alive.interval = 120
+main.plugins.keep_alive.host = "google.com"
